@@ -1,5 +1,5 @@
 # ProjetAIFinal
-Face Recognition Eigenface & SVM (Support Vector Machine) 
+Face Recognition using support Vector Machine
 # Dependencies 
 OpenCV
 

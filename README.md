@@ -7,5 +7,5 @@ Scikit-Learn
 
 # Result 
 ![jj](https://user-images.githubusercontent.com/59377342/202911791-6d6c7833-363e-433f-beef-30f08f587e03.PNG)
-![mm](https://user-images.githubusercontent.com/59377342/202911697-d34ff5c5-f342-40bc-9ae6-1eee9f4c8ddc.PNG)
+![m](https://user-images.githubusercontent.com/59377342/202911898-8f85b4d4-50b0-4056-97c8-814a08f0f131.PNG)
 
